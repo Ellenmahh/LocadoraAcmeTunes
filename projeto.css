@@ -1,0 +1,765 @@
+    @media screen and (min-width:1000px){
+    body{
+        background-color:#090606;
+        margin:0px;
+        font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+    }
+    #menu{
+    width:100%;
+    margin-left:auto;margin-right:auto;
+    background:#B82323;border: 1px solid black;
+    }
+    #home{
+    height:40px;
+    width:40px;
+    }
+    #login{
+    float:right;margin-top:-80px;font-size:13px;color:white;
+
+    }
+    #login input:not([type="submit"]){
+    width:100px;
+    }
+    .lstmenu{
+    width:90%;
+    list-style:none;
+    margin-top:-40px;font-size:18px;color:white;
+    text-align:center;
+    }
+    .lstmenu  li {
+    display:inline;padding:10px;
+
+    }
+    .lstmenu li:hover{	
+    cursor: hand;
+
+    }
+    a:link{
+    text-transform:uppercase;text-decoration:none;color:white;
+    }
+    a:visited{
+        color:white;
+    }
+    a:hover{
+    transition:1s;color:070101;
+    }
+    #Conteudo{
+    width:1000px;height:auto;margin-left:auto;margin-right:auto;margin-top:15px; 
+
+    }
+        
+    .faleConosco {
+    text-align:left;
+    color:red;
+
+    }
+    .faleConosco td{
+    width:100px;
+    }
+    .atorDestaque{
+        width:1000px;
+        height:auto;
+        float:left;
+
+
+    }
+    .atorDestaqueLado{
+        width:400px;
+        height:auto;
+        text-align:center;
+        margin-right:50px;
+        font-size:15px;
+        margin-top:10px;
+        color:#ffffff;
+        display:inline;
+
+    }
+    .atorDestaqueLado:hover{
+        transition:1s;
+        color:red;
+    }
+        .nossaslojas{
+        color: white;
+    }
+    .lstconteudo{
+    list-style:none;
+    font-size:20px;
+
+    }
+    .lstconteudo li {	
+        text-align:center;	margin-left:-40px; padding:10px;
+    }
+    .lstconteudo li:hover{
+        transition:2s;	
+        background-color:#ffffff;
+        height:30px;
+        }
+    #coluna1{
+    width:190px;height:1200px;
+    background-color:#e4e4e4;float:left;color:gray;
+    
+
+    }
+      
+    .coluna2{
+
+    width:800px;height:1200px;background-color:#f7f7f7;
+    display:inline-block;
+
+    }
+    #promocao{
+        width:1010px;
+        height:1200px;
+        text-align:center;
+    }
+    #atores {
+    width:940px;padding-left:50px;
+    }
+    #atores .produto{
+    margin-left:10px;
+    }
+    .produto{
+    width:200px;height:470px;border:2px solid #d0cfcf;
+
+    display:inline-block;margin-top:50px;margin-left:50px;
+
+    }
+    .produto td:hover{
+    color:red;
+    }
+    #promo{
+        width:250px;
+        height:280px;
+        display:inline-block;
+
+    }
+    #promo td{
+        font-size:13px;
+    }
+    strike{
+        color:red;
+    }
+    #desconto{
+
+        border-radius: 50px 500px;
+        background-color:red;
+        padding-left:10px;
+
+    }
+    .img{
+    border-radius:10px;
+
+
+    }
+    .imgFilmes{
+    padding-left:20px;
+    padding-top:10px;
+    }
+    .img img{
+    -webkit-filter:grayscale(0%);
+    transition: -webkit-filter .75s ease;
+
+    }
+    .img:hover img{
+    -webkit-filter:grayscale(50%);
+    }
+    .detalhes{
+        text-align:right;
+    }
+    .detalhes{
+    width:auto;
+    word-break:break-all;
+    z-index:90;
+    background-color:#e6e6e6;
+    position:absolute;
+    border-radius:10px;
+    padding:10px;
+    padding-bottom:5px;
+    text-align:left;
+    }
+    #filmeMes{
+
+        width:250px;
+        height:400px;
+
+    }
+    #detalhes{
+    color:black;
+    }
+    #detalhes:hover{
+    cursor:help;
+    font-size:15px;
+    text-align:left;
+    }
+    a.formata{
+        text-align:right;
+        cursor:help;
+    }
+    .social{
+        width:40px;
+        height:30px;
+        cursor:hand;
+        padding:10px;
+        border: 1px solid white;
+        border-radius:20px;
+    }
+    .social:hover{
+        border: 1px solid red;
+
+    }
+    .lateral{
+    width:60px;height:210px;
+
+    float:right;
+
+
+    }
+    p{
+        text-align:center;
+    }
+    #rodape{
+    width:1000px;height:150px;
+    margin-left:auto; margin-right:auto;
+    background:linear-gradient(black,gray);
+    color:white;text-align:left;
+    }
+
+    }
+
+    @media  (max-device-width:600px)
+/*@media screen and (min-width:600px) and (max-width:745px)*/
+    
+    {
+    body{
+        background-color:#090606;
+        margin:0px;
+        font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+    }
+    #menu{
+    width:100%;
+    height: 200px;
+    border: 1px solid black;
+    }
+    #home{
+    height:40px;
+
+    }
+    #login{
+    display: none;
+
+    }
+    #login input:not([type="submit"]){
+    width:50px;
+    }
+    .lstmenu{
+    width:150px;
+    height: 230px;
+    list-style:none;
+    font-size:14px;
+    color:white;
+    margin: 0px;
+    text-align: center;
+    margin-left: 150px;
+    position: relative;
+    
+    }
+    .lstmenu  li {
+    padding: 5px;
+
+    }
+    .lstmenu li:hover{	
+    cursor: hand;
+
+    }
+    a:link{
+    text-transform:uppercase;text-decoration:none;color:white;
+    }
+    a:visited{
+        color:white;
+    }
+    a:hover{
+    color:red;
+    
+    }
+    #Conteudo{
+    width:100%;height:auto;
+    background-color: darkgrey;
+    margin-left:auto;
+    margin-right:auto;
+
+
+    }
+    .faleConosco {
+    text-align:left;
+    color:red;
+
+    }
+    figure{
+        display: none;
+    }
+    .faleConosco td{
+    width:100px;
+    }
+    .atorDestaque{
+        width:1000px;
+        height:auto;
+        float:left;
+
+
+    }
+    .atorDestaqueLado{
+        width:400px;
+        height:auto;
+        text-align:center;
+        margin-right:50px;
+        font-size:15px;
+        margin-top:10px;
+        color:#ffffff;
+        display:inline;
+
+    }
+    .atorDestaqueLado img{
+    width:200px;
+
+    }
+    .atorDestaqueLado:hover{
+        transition:1s;
+        color:red;
+    }
+    .lstconteudo{
+    list-style:none;
+    font-size:20px;
+
+    }
+    .lstconteudo li {	
+        text-align:center;	margin-left:-40px; padding:10px;
+    }
+    .lstconteudo li:hover{
+        transition:2s;	
+        background-color:#ffffff;
+        height:30px;
+        }
+    #coluna1{
+    width:20%;height:1400px;
+    background-color:#e4e4e4;
+    float:left;color:gray;
+    margin-top: -15px;
+
+    }
+    .coluna2{
+
+    width:100%;height:1400px;
+    /*min-width: 200px;*/
+
+    /*display:inline-block;*/
+    margin-top: -15px;          
+
+    }
+        
+        
+    #outros{
+    width:100%;height:1400px;
+    background-color:lightgray;
+    display:inline-block;
+    margin-top: -15px;     
+            
+            
+            
+        }
+    .nossaslojas{
+        color: white;
+    }
+    #promocao{
+        width:400px;
+        height:1200px;
+
+    }
+    #atores {
+    width:940px;padding-left:50px;
+    }
+    #atores .produto{
+    margin-left:10px;
+    }
+    .produto{
+    width:200px;height:400px;
+    border:2px solid #d0cfcf;
+
+    display:inline-block;
+    margin-top:50px;margin-left:50px;
+
+    }
+    .produto img{
+        width: 110px;
+        height: 150px;
+        margin-left: 40px;
+    }
+    .produto td{
+    font-size:14px;
+    }
+    .produto td:hover{
+    color:red;
+    }
+    #promo{
+        width:150px;
+        height:280px;
+        padding-right: 35px;
+        margin-left: 5px;
+        display:inline-block;
+
+    }
+    #promo td{
+    font-size:13px;
+    }
+    strike{
+        color:red;
+    }
+    #desconto{
+
+        border-radius: 50px 500px;
+        background-color:red;
+        padding-left:10px;
+
+    }
+    .img{
+    width: 100px;
+    border-radius:20px;
+
+
+    }
+    .imgFilmes{
+        width: 400px;
+        height: 200px;
+    padding-right:20px;
+    padding-top:10px;
+    }
+    .img img{
+    -webkit-filter:grayscale(0%);
+    transition: -webkit-filter .75s ease;
+
+    }
+    .img:hover img{
+    -webkit-filter:grayscale(50%);
+    }
+    .detalhes{
+        text-align:right;
+    }
+    .detalhes{
+    width:auto;
+    word-break:break-all;
+    z-index:90;
+    background-color:#e6e6e6;
+    position:absolute;
+    border-radius:10px;
+    padding:10px;
+    padding-bottom:5px;
+    text-align:left;
+    }
+    #filmeMes{
+
+        width:250px;
+        height:400px;
+
+    }
+    #detalhes{
+    color:black;
+    }
+    #detalhes:hover{
+    cursor:help;
+    font-size:15px;
+    text-align:left;
+    }
+    a.formata{
+        text-align:right;
+        cursor:help;
+    }
+    .social{
+        width:40px;
+        height:30px;
+        cursor:hand;
+        padding:10px;
+        border: 1px solid white;
+        border-radius:20px;
+    }
+    .social:hover{
+        border: 1px solid red;
+
+    }
+     .lateral{
+        width: 60px;
+        margin-top: 1300px;
+        float: right;
+    }
+    
+    p{
+        text-align:center;
+    }
+    #rodape{
+    width:100%;height:100px;
+    margin-left:auto; margin-right:auto;
+    background:linear-gradient(black,gray);
+    color:white;text-align:left;
+    
+        }
+    }
+
+
+
+@media (min-device-width: 601px) and (max-device-width:800px) and (orientation: portrait) 
+/*@media screen and (min-width:746px)*/
+{
+    body{
+    background-color:#090606;
+    margin:0px;
+    font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+    }
+    #menu{
+    width:100%;
+    margin-left:auto;margin-right:auto;
+    background:gray;border: 1px solid black;
+    }
+    #home{
+    height:40px;
+
+    }
+    #login{
+    display: none;
+
+    }
+    #login input:not([type="submit"]){
+    width:50px;
+    }
+    .lstmenu{
+    width:150px;
+    height: 230px;
+    list-style:none;
+    font-size:14px;
+    color:white;
+    margin: 0px;
+    text-align: center;
+    margin-left: 300px;
+    }
+    .lstmenu  li {
+    padding: 5px;
+
+    }
+    .lstmenu li:hover{	
+    cursor: hand;
+
+    }
+    a:link{
+    text-transform:uppercase;text-decoration:none;color:white;
+    }
+    a:visited{
+        color:white;
+    }
+    a:hover{
+    transition:1s;color:070101;
+    }
+    #Conteudo{
+    width:700px;height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    }
+    .faleConosco {
+    text-align:left;
+    color:red;
+
+    }
+    figure{
+        display: none;
+    }
+    .faleConosco td{
+    width:100px;
+    }
+    .atorDestaque{
+        width:1000px;
+        height:auto;
+        float:left;
+
+
+    }
+    .atorDestaqueLado{
+        width:400px;
+        height:auto;
+        text-align:center;
+        margin-right:50px;
+        font-size:15px;
+        margin-top:10px;
+        color:#ffffff;
+        display:inline;
+
+    }
+    .atorDestaqueLado img{
+    width:200px;
+
+    }
+    .atorDestaqueLado:hover{
+        transition:1s;
+        color:red;
+    }
+    .lstconteudo{
+    list-style:none;
+    font-size:20px;
+
+    }
+    .lstconteudo li {	
+        text-align:center;	margin-left:-40px; padding:10px;
+    }
+    .lstconteudo li:hover{
+        
+        background-color:#ffffff;
+        height:30px;
+        }
+    #coluna1{
+    width:150px;height:1360px;
+    background-color:#e4e4e4;
+    float:left;color:gray;
+    margin-top: -15px;
+
+    }
+    .coluna2{
+
+    width:500px;height:1360px;
+    background-color:lightgray;
+    display:inline-block;
+        margin-top: -15px;
+    
+    }
+    .nossaslojas{
+        color: white;
+    }
+    #promocao{
+        width:700px;
+        height:1200px;
+
+    }
+    #atores {
+    width:940px;padding-left:50px;
+    }
+    #atores .produto{
+    margin-left:10px;
+    }
+    .produto{
+    width:200px;height:400px;
+    border:2px solid #d0cfcf;
+
+    display:inline-block;
+    margin-top:50px;margin-left:50px;
+
+    }
+    .produto img{
+        width: 110px;
+        height: 150px;
+        margin-left: 40px;
+    }
+    .produto td{
+    font-size:14px;
+    }
+    .produto td:hover{
+    color:red;
+    }
+    #promo{
+        width:150px;
+        height:280px;
+        padding-right: 35px;
+        margin-left: 5px;
+        display:inline-block;
+
+    }
+    #promo td{
+    font-size:13px;
+    }
+    strike{
+        color:red;
+    }
+    #desconto{
+
+        border-radius: 50px 500px;
+        background-color:red;
+        padding-left:10px;
+
+    }
+    .img{
+    width: 120px;
+    border-radius:20px;
+
+
+    }
+    .imgFilmes{
+        width: 400px;
+        height: 200px;
+    padding-right:20px;
+    padding-top:10px;
+    }
+    .img img{
+    -webkit-filter:grayscale(0%);
+    transition: -webkit-filter .75s ease;
+
+    }
+    .img:hover img{
+    -webkit-filter:grayscale(50%);
+    }
+    .detalhes{
+        text-align:right;
+    }
+    .detalhes{
+    width:auto;
+    word-break:break-all;
+    z-index:90;
+    background-color:#e6e6e6;
+    position:absolute;
+    border-radius:10px;
+    padding:10px;
+    padding-bottom:5px;
+    text-align:left;
+    }
+    #filmeMes{
+
+        width:250px;
+        height:400px;
+
+    }
+    #detalhes{
+    color:black;
+    }
+    #detalhes:hover{
+    cursor:help;
+    font-size:15px;
+    text-align:left;
+    }
+    a.formata{
+        text-align:right;
+        cursor:help;
+    }
+    .social{
+        width:40px;
+        height:30px;
+        cursor:hand;
+        padding:10px;
+        border: 1px solid white;
+        border-radius:20px;
+    }
+    .social:hover{
+        border: 1px solid red;
+
+    }
+    .lateral{
+        width: 60px;
+        margin-top: 1300px;
+        float: right;
+    }
+    p{
+        text-align:center;
+    }
+    #rodape{
+    width:700px;height:100px;
+    margin-left:auto; margin-right:auto;
+    background-color:grey;
+    color:white;text-align:left;
+    
+    }
+    
+    
+    
+    
+}

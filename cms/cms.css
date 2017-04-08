@@ -1,0 +1,290 @@
+        @media screen and (min-width:1024px){
+
+        body{
+
+            font-family:hobo std;
+            background-color:#272424;
+        }
+        #principal{
+        width:1000px;
+        height:auto;
+        background-color:#f7f7f7;
+        margin-left:auto; margin-right:auto;
+        border-radius:20px  ; 
+        padding-top:5px;
+        padding-left:10px; padding-right:10px;
+        border:2px solid black;
+        }
+        #cabecalho{
+        width:780px;
+        height:100px;
+        color:black;
+        padding: 10px;
+
+        }
+        .tbluser{
+
+            height:500px;
+            height:auto;
+            margin-left:10px;
+
+            display:inline-block
+        }
+        .txtdescricao{
+        resize:none;
+        }
+        .imgtamanho{
+            width:200px;
+            height:170px;
+
+
+        }
+        #titulo{
+        margin-top:20px;
+        }
+        span{
+        font-size:15px;
+        font-weight:normal;
+        }
+        h1{
+        margin:0;
+        }
+        #adcAdm{
+            padding:10px;
+        }
+        .opDeLogin{
+            border-top:1px solid black;
+        }
+        .faleConosco{
+
+        display:inline-block;
+        margin-left:40px;
+
+        }
+        .adm{
+            opacity:0.5;
+        }
+        .adm:hover{
+
+            opacity:1.0;
+        }
+        .btn{
+            font-family:arial;
+            font-size:14px;
+            text-transform:uppercase;
+            font-weight:700;
+            border:none;
+            padding:10px;
+            cursor:pointer;
+            margin-top:10px;
+            margin-bottom:25px;
+            background-color:pink;
+            box-shadow:0 5px 0 #fbb9ef;
+            display:inline-block;
+        }
+        .btn:active{
+            position:relative;
+            top:5px;
+            background-color:pink;
+            box-shadow:none;
+        }
+        .edit{
+            margin-right:20px;
+            margin-left:60px;
+        }
+        .bemvindo{
+            padding-left:150px;;
+        }
+        #imgCabecalho{
+        width:150px;
+        height:20px;
+        float:right;
+        padding-left:10px;
+        margin-top:-55px;
+        background-color:black;
+        color:white;
+        text-align:center;
+        }
+        .logout1{
+        padding:10px;
+        border-bottom:1px solid black;
+        }
+        .logout2{
+            padding-left:800px;
+        }
+        #conteudo{
+        height:auto;
+        }
+        .tblusuario{
+
+        display:inline-block;
+        text-align:center;
+        margin-left:90px;
+        padding:10px;
+        margin-bottom:30px;
+        }
+        .btncrud{
+        margin-top:50px;
+        text-align:center;
+        margin-bottom:50px;
+        }
+        .texto{
+        text-align:center;
+        color:#1a1a1a;
+        margin-bottom:10px;
+        border:2px solid black;
+
+        }
+        footer{
+        height:20px;
+        padding:10px;
+        text-align:center;
+        font-size:15px;
+        border-top:1px solid black;
+        }
+        }
+        @media screen and (min-width:380px) and (max-width:770px){
+           body{
+
+            font-family:hobo std;
+            background-color:pink;
+        }
+        #principal{
+        width:400px;
+        height:auto;
+        background-color:#f7f7f7;
+        margin-left:auto; margin-right:auto;
+        border-radius:20px  ; 
+        padding-top:5px;
+        padding-left:10px; padding-right:10px;
+        border:2px solid black;
+        }
+        #cabecalho{
+        width:780px;
+        height:100px;
+        color:black;
+        padding: 10px;
+
+        }
+        .tbluser{
+
+            height:500px;
+            height:auto;
+            margin-left:10px;
+
+            display:inline-block
+        }
+        .txtdescricao{
+        resize:none;
+        }
+        .imgtamanho{
+            width:200px;
+            height:170px;
+
+
+        }
+        #titulo{
+        margin-top:20px;
+        }
+        span{
+        font-size:15px;
+        font-weight:normal;
+        }
+        h1{
+        margin:0;
+        }
+        #adcAdm{
+            padding:10px;
+        }
+        .opDeLogin{
+            border-top:1px solid black;
+        }
+        .faleConosco{
+
+        display:inline-block;
+        margin-left:40px;
+
+        }
+        .adm{
+            opacity:0.5;
+        }
+        .adm:hover{
+
+            opacity:1.0;
+        }
+        .btn{
+            font-family:arial;
+            font-size:14px;
+            text-transform:uppercase;
+            font-weight:700;
+            border:none;
+            padding:10px;
+            cursor:pointer;
+            margin-top:10px;
+            margin-bottom:25px;
+            background-color:pink;
+            box-shadow:0 5px 0 #fbb9ef;
+            display:inline-block;
+        }
+        .btn:active{
+            position:relative;
+            top:5px;
+            background-color:pink;
+            box-shadow:none;
+        }
+        .edit{
+            margin-right:20px;
+            margin-left:60px;
+        }
+        .bemvindo{
+            padding-left:150px;;
+        }
+        #imgCabecalho{
+        width:150px;
+        height:20px;
+        float:right;
+        padding-left:10px;
+        margin-top:-55px;
+        background-color:black;
+        color:white;
+        text-align:center;
+        }
+        .logout1{
+        padding:10px;
+        border-bottom:1px solid black;
+        }
+        .logout2{
+            padding-left:800px;
+        }
+        #conteudo{
+        height:auto;
+        }
+        .tblusuario{
+
+        display:inline-block;
+        text-align:center;
+        margin-left:90px;
+        padding:10px;
+        margin-bottom:30px;
+        }
+        .btncrud{
+        margin-top:50px;
+        text-align:center;
+        margin-bottom:50px;
+        }
+        .texto{
+        text-align:center;
+        color:#1a1a1a;
+        margin-bottom:10px;
+        border:2px solid black;
+
+        }
+        footer{
+        height:20px;
+        padding:10px;
+        text-align:center;
+        font-size:15px;
+        border-top:1px solid black;
+        } 
+
+        }

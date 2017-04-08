@@ -1,0 +1,2 @@
+ALTER TABLE tblusuarios ADD CONSTRAINT fk_idNivel FOREIGN KEY nivel REFERENCES tblnivel(idNivel);
+Cataloguista

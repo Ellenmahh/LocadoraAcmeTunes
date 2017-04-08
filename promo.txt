@@ -1,0 +1,249 @@
+	<!--<table> 
+						<tr>
+							<td class="img"> <img src="imagem/malvado.jpg" alt="Meu Malvado Favorito"> </td>
+							<td id="desconto" > 15% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:Meu Malvado favorito </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>29,90</strike>
+							 Por: 25,40 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+					
+				</section>
+			
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/as.jpg" alt="As Branquelas"> </td>
+							<td id="desconto" > 15% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:As Branquelas </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>19,90</strike>
+							 Por: 16,90 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+				
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/onda.jpg" alt="A onda"> </td>
+							<td id="desconto" > 20% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:A onda </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>29,90</strike>
+							 Por: 23,90 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+				
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/imperador.jpg" alt="O imperador" title="O imperador"> </td>
+							<td id="desconto" > 10% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:O imperador </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>15,90</strike>
+							 Por: 14,30 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+						</tr>
+					</table>
+				</section>
+				 
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/jerusalem.jpg" alt="Jerusalém" title="jerusalem"> </td>
+							<td id="desconto" > 13% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:Jerusalém </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>39,90</strike>
+							 Por: 34,70 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+				
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/pie.jpg" alt="American Pie 4" title="American Pie 4"> </td>
+							<td id="desconto" > 10% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:American Pie</td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>9,90</strike>
+							 Por: 8,90 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/homemaranha.jpeg" alt="Homem Aranha 2" title="Homem Aranha 2"> </td>
+							<td id="desconto" > 25% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:O Homem Aranha 2 </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>27,90</strike>
+							 Por: 20,90 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/preto.jpg" alt="50 tons de preto" title="50 tons de preto"> </td>
+							<td id="desconto" > 30% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:50 Tons de Preto </td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>39,90</strike>
+							 Por: 27,90 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+				<section class="produto" id="promo"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/cinza.jpg" alt="50 tons de Cinza" title="5o tons de cinza"> </td>
+							<td id="desconto" > 20% </td>
+						</tr>
+						
+						<tr>
+							<td> Nome:5O Tons de Cinza</td>
+						
+						</tr>
+						<tr>
+							<td> 
+							 De:<strike>49,90</strike>
+							 Por: 39,90 
+							 </td>
+							
+						</tr>
+							<tr>
+							<td class="detalhes"> 
+							<a href="#" class="formata"> Detalhes
+							
+							</td>
+							
+						</tr>
+					</table>
+				</section>
+			</section>
+			-->

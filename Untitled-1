@@ -1,0 +1,39 @@
+<?php 
+//conexao com o banco de dados
+require_once('moduloProjeto.php');
+
+// Recuperamos a ação enviada pelo formulário
+$a="";
+$a = $_GET['a'];
+ echo($a);
+// Verificamos se a ação é de busca
+if ($a == "buscar") {
+ 
+	// Pegamos a palavra
+	$palavra = trim($_POST['palavra']);
+ 
+	// Verificamos no banco de dados produtos equivalente a palavra digitada
+	$sql = "SELECT * FROM tblfilmes WHERE nome LIKE '%".$palavra."%' ORDER BY nome";
+
+   $select= mysql_query($sql);
+	// Descobrimos o total de registros encontrados
+	$numRegistros = mysql_num_rows($select);
+ 
+	// Se houver pelo menos um registro, exibe-o
+	if ($numRegistros != 0) {
+		// Exibe os produtos e seus respectivos preços
+		while ($produto = mysql_fetch_array($select)) {
+          ?>
+        <
+
+		?>
+
+<?php
+        }
+	// Se não houver registros
+	} else {
+		echo "Nenhum produto foi encontrado com a palavra ".$palavra."";
+	}
+}
+
+?>

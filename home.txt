@@ -1,0 +1,122 @@
+<!-- <section class="produto"> 
+						<table> 
+							<tr>
+								<td class="img">  <img src="imagem/eradogelo.jpg" alt="A era do Gelo e o Big Bang" title="A era do Gelo e o Big Bang"> </td>
+							</tr>
+							<tr>
+								<td> Nome: A era do Gelo e o Big Bang </td>	
+							</tr>
+							<tr>
+								<td> 
+									Descrição:Depois que o esquilo Scrat,provoca um acidente espacial em sua incansável perseguição pela noz, um enorme meteoro entra em rota de colisão com a Terra, ameaçando o lar de Manny, Diego, Sid e cia.
+								</td>
+							</tr>
+							<tr>
+								<td> Preço: 10,99</td>
+								
+							</tr>
+							<tr>
+								<td class="detalhes"> 
+									<a href="#" class="formata"> Detalhes
+								</td>
+							</tr>
+						</table>
+				</section>
+				<section class="produto"> 
+						<table> 
+							<tr>
+								<td class="img"> <img src="imagem/deadpool.jpg" alt="Deadpool" title="Deadpool"> </td>
+							</tr>
+							<tr>
+								<td> Nome: Deadpool</td>
+								
+							</tr>
+							<tr>
+								<td> 
+									Descrição: Ex-militar e mercenário, Wade Wilson (Ryan Reynolds) é diagnosticado com câncer em estado terminal, porém encontra uma possibilidade de cura em uma sinistra experiência científica.
+								</td>
+							</tr>
+							<tr>
+								<td> Preço: 14,95</td>
+							</tr>
+							<tr>
+								<td class="detalhes"> 
+									<a href="#" class="formata"> Detalhes
+								</td>
+							</tr>
+						</table>
+				</section>
+				<section class="produto"> 
+						<table> 
+							<tr>
+								<td class="img">  <img src="imagem/bruxaecacador.jpg" alt="O caçador e a Rainha do Gelo" title="O caçador e a Rainha do Gelo"></td>
+							</tr>
+							<tr>
+								<td> Nome: O caçador e a Rainha do Gelo </td>
+								
+							</tr>
+							<tr>
+								<td> 
+									Descrição: Freya é a irmã boa da toda poderosa Rainha Ravenna. Depois de passar por um trauma,ela desperta para os poderes mágicos e se isola. Ela constrói seu próprio reinado – se torna a Rainha do Gelo 
+								</td>
+							</tr>
+							<tr>
+								<td> Preço: 17,28</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="detalhes"> 
+									<a href="#" class="formata"> Detalhes
+								</td>
+							</tr>
+						</table>
+				</section>
+				<section class="produto"> 
+						<table> 
+							<tr>
+								<td class="img">  <img src="imagem/5onda.jpg" alt="A 5º Onda" title="A 5º Onda"><td>
+							</tr>
+							<tr>
+								<td> Nome:A 5º Onda</td>
+								
+							</tr>
+							<tr>
+								<td> Descrição:A Terra repentinamente sofre uma série de ataques alienígenas. Na primeira onda de ataques, um pulso eletromagnético retira a eletricidade do planeta.  </td>
+								
+							</tr>
+							<tr>
+								<td> Preço: 5,98 </td>
+								<td></td>
+							</tr>
+								<tr>
+								<td class="detalhes"> 
+									<a href="#" class="formata"> Detalhes
+								</td>
+							</tr>
+						</table>
+				</section>
+				<section class="produto"> 
+					<table> 
+						<tr>
+							<td class="img"> <img src="imagem/panico.jpg" alt=" Todo mundo em panico 3" title=" Todo mundo em panico 3"> </td>
+						</tr>
+						<tr>
+							<td> Nome: Todo mundo em panico 3 </td>
+						</tr>
+						<tr>
+							<td> 
+								Descrição:Das mentes dos criadores do seriado da TV americana "In living color" surge o primeiro thriller-comédia, em que 	adolescentes apavorados fugindo de maníacos assassinos são o pretexto para uma série de piadas . 
+							</td>
+			
+						</tr>
+						<tr>
+							<td> Preço: 10,99 </td>
+						</tr>
+							<tr>
+								<td class="detalhes"> 
+									<a href="#" class="formata"> Detalhes
+								</td>
+							</tr>
+					</table>
+				</section>
+				-->
